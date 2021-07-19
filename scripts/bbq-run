@@ -1,2 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+from bbq.quotes import get_quotes
+
+get_quotes()
